@@ -31,3 +31,8 @@ Como equipo, acordamos los siguientes compromisos para trabajar de manera colabo
 - Si algún integrante no puede cumplir una tarea, debe avisar al grupo con al menos 24 horas de anticipación.
 - Las decisiones importantes se tomarán por consenso del grupo.
 git add Assignment_03.md
+
+
+
+kikjjshiijsihljjholihys
+ujoeduposioiujsoiu

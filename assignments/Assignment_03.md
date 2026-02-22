@@ -39,3 +39,4 @@ Como equipo, acordamos los siguientes compromisos para trabajar de manera colabo
 **Responsabilidad:**
 - Si algún integrante no puede cumplir una tarea, debe avisar al grupo con al menos 24 horas de anticipación.
 - Las decisiones importantes se tomarán por consenso del grupo.
+- cuando los integrantes del grupo se compreomenta a una reunion a visar minimo con 3 horas de anticipacion si no puede asistir.

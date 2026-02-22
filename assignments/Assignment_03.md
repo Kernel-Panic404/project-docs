@@ -7,17 +7,13 @@ Assignment_03 - GitHub Conflicts
 - **Fortalezas:** Soy organizado y me gusta planificar antes de ejecutar. Tengo facilidad para entender sistemas complejos.
 - **Aspectos a mejorar:** Necesito mejorar mi manejo del tiempo y aprender a delegar tareas en lugar de querer hacerlo todo yo mismo.
 
-## Pregunta 1
+
 
 ### Pablo Rosales Obando
 - **Rol deseado:** Me gustaría desempeñar un rol de desarrollador backend, enfocándome en la lógica de negocio y la conexión con bases de datos.
 - **Fortalezas:** Tengo buenas habilidades analíticas y capacidad para resolver problemas de forma estructurada. Me adapto bien a nuevas tecnologías.
 - **Aspectos a mejorar:** Debo mejorar mi comunicación dentro del equipo y aprender a pedir ayuda cuando me estanco en un problema.
 
-### Alexander Mosquera Ramírez
-- **Rol deseado:** Me interesa el rol de arquitecto de software, diseñando la estructura general del sistema y tomando decisiones técnicas importantes.
-- **Fortalezas:** Soy organizado y me gusta planificar antes de ejecutar. Tengo facilidad para entender sistemas complejos.
-- **Aspectos a mejorar:** Necesito mejorar mi manejo del tiempo y aprender a delegar tareas en lugar de querer hacerlo todo yo mismo.
 
 ### Gabriel Bustos Moreno
 - **Rol deseado:** Me gustaría ser el enlace entre el equipo técnico y el cliente, documentando requisitos y asegurando que el producto cumpla las expectativas.

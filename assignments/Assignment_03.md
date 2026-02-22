@@ -2,7 +2,7 @@
 
 ## Pregunta 1
 
-### Pablo Roales Obando
+### Pablo Rosales Obando
 - **Rol deseado:** Me gustaría desempeñar un rol de desarrollador backend, enfocándome en la lógica de negocio y la conexión con bases de datos.
 - **Fortalezas:** Tengo buenas habilidades analíticas y capacidad para resolver problemas de forma estructurada. Me adapto bien a nuevas tecnologías.
 - **Aspectos a mejorar:** Debo mejorar mi comunicación dentro del equipo y aprender a pedir ayuda cuando me estanco en un problema.
@@ -32,7 +32,5 @@ Como equipo, acordamos los siguientes compromisos para trabajar de manera colabo
 - Las decisiones importantes se tomarán por consenso del grupo.
 git add Assignment_03.md
 
-
-
-kikjjshiijsihljjholihys
-ujoeduposioiujsoiu
+**prueba**
+- yo esoty aqui.

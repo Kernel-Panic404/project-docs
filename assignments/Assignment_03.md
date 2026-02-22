@@ -7,6 +7,15 @@
 - **Fortalezas:** Tengo buenas habilidades analíticas y capacidad para resolver problemas de forma estructurada. Me adapto bien a nuevas tecnologías.
 - **Aspectos a mejorar:** Debo mejorar mi comunicación dentro del equipo y aprender a pedir ayuda cuando me estanco en un problema.
 
+### Alexander Mosquera Ramírez
+- **Rol deseado:** Me interesa el rol de arquitecto de software, diseñando la estructura general del sistema y tomando decisiones técnicas importantes.
+- **Fortalezas:** Soy organizado y me gusta planificar antes de ejecutar. Tengo facilidad para entender sistemas complejos.
+- **Aspectos a mejorar:** Necesito mejorar mi manejo del tiempo y aprender a delegar tareas en lugar de querer hacerlo todo yo mismo.
+
+### Gabriel Bustos Moreno
+- **Rol deseado:** Me gustaría ser el enlace entre el equipo técnico y el cliente, documentando requisitos y asegurando que el producto cumpla las expectativas.
+- **Fortalezas:** Tengo habilidades de comunicación y redacción. Me gusta mantener la documentación ordenada y clara.
+- **Aspectos a mejorar:** Debo fortalecer mis habilidades técnicas de programación y perderle el miedo a dar feedback constructivo al equipo.
 
 ## Pregunta 2
 
@@ -30,7 +39,3 @@ Como equipo, acordamos los siguientes compromisos para trabajar de manera colabo
 **Responsabilidad:**
 - Si algún integrante no puede cumplir una tarea, debe avisar al grupo con al menos 24 horas de anticipación.
 - Las decisiones importantes se tomarán por consenso del grupo.
-git add Assignment_03.md
-
-**prueba**
-- yo esoty aqui.

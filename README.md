@@ -3,9 +3,9 @@ Repositorio de documentación del proyecto grupal: casos de uso, scripts de BD, 
 
 
 
-# 👽  AltF4 - biUNestar
+#  ☀️kERNEL PANIC - Mentora
 
-### El grupo 🔥🛰️🔥:
+### El grupo 🖥️😖🖥️:
 | integrante | carrera | correo institucional |
 |---|---|---|
 | GABRIEL BUSTOS MORENO | Ingenieria de Sistemas y Computacion |gbustosm@unal.edu.co|
@@ -14,4 +14,4 @@ Repositorio de documentación del proyecto grupal: casos de uso, scripts de BD, 
 | DIEGO ESTEBAN JIMENES GUTIERRES |Ingenieria de Sistemas y Computaciòn|Djimenezgu@unal.edu.co|
 
 ## Descripción del proyecto
-#### MENTORA 🌱
+#### MENTORA 📑

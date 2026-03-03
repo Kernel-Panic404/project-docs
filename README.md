@@ -22,5 +22,5 @@ Actualmente, la gestión manual o fragmentada de estos espacios dificulta que:
 - Los **tutores** planifiquen sus sesiones con base en el historial del alumno.
 - Los **administradores** midan la demanda real.
 
-A diferencia de los sistemas de agendamiento genéricos, **Mentora** integra un ciclo académico completo: desde la asignación de cuestionarios previos por parte de los profesores, hasta el registro de calificaciones y observaciones por parte de los tutores, centralizando todo en un único flujo de desempeño académico **medible y escalable**.
+A diferencia de los sistemas de agendamiento genéricos, **Mentora** integra un ciclo académico completo: desde la asignación de cuestionarios por parte de los profesores, hasta el registro de calificaciones y observaciones por parte de los tutores y profesores, centralizando todo en un único flujo de desempeño académico **medible y escalable**.
 #### MENTORA 📑

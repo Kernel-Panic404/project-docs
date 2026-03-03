@@ -1,7 +1,7 @@
 # project-docs
 Repositorio de documentación del proyecto grupal: casos de uso, scripts de BD, diagramas, entregas y asignaciones. Curso Ingeniería de Software 1 — Universidad Nacional de Colombia, 2026-1.
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_rrrehtrrrehtrrre" src="https://github.com/user-attachments/assets/329a8e99-5641-425a-a952-81498c280416" />
+<img width="1408" height="318" alt="Gemini_Generated_Image_rrrehtrrrehtrrre" src="https://github.com/user-attachments/assets/41fccdc5-2935-4635-a7db-fb1162acf100" />
 
 
 #  ☀️kERNEL PANIC - Mentora

@@ -9,7 +9,7 @@ Repositorio de documentación del proyecto grupal: casos de uso, scripts de BD, 
 | GABRIEL BUSTOS MORENO | Ingenieria de Sistemas y Computacion |gbustosm@unal.edu.co|
 | PABLO ROSALES OBANDO |Ingenieria de Sistemas y Computaciòn|prosales@unal.edu.co|
 | ALEXANDER MOSQUERA RAMIRES |Ingenieria de Sistemas y Computaciòn|almosquerar@unal.edu.co|
-| DIEGO ESTEBAN JIMENES GUTIERRES |Ingenieria de Sistemas y Computaciòn|Djimenezgu@unal.edu.co|
+| DIEGO ESTEBAN JIMENEZ GUTIERRES |Ingenieria de Sistemas y Computaciòn|Djimenezgu@unal.edu.co|
 
 ## Descripción del proyecto
 #### MENTORA 📋
